@@ -1,0 +1,12 @@
+{
+  "name": "com.veyu.sdk",
+  "version": "0.1.0",
+  "displayName": "Veyu SDK",
+  "description": "Logging & playtest SDK for Unity",
+  "unity": "2020.3",
+  "keywords": ["logging", "playtest", "analytics", "sdk"],
+  "author": {
+    "name": "Gabriel Audette"
+  },
+  "license": "MIT"
+}
