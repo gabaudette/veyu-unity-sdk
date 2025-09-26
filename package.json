@@ -1,6 +1,6 @@
 {
   "name": "com.veyu.sdk",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "displayName": "Veyu SDK",
   "description": "Logging & playtest SDK for Unity",
   "unity": "2020.3",
