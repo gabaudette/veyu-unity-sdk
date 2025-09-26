@@ -1,4 +1,4 @@
-# Veyu Unity SDK
+# Veyu Unity SDK (Alpha build)
 
 The **Veyu Unity SDK** allows you to integrate Veyu Playtest services into your Unity projects.  
 It works by logging user and system interactions for analysis and visualization in Veyu Playtest.
